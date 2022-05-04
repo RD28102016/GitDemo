@@ -9,7 +9,6 @@
   <test thread-count="5" name="Test">
     <classes>
       <class name="rahulshettyacademy.MavenJava.AppiumTest"/>
-      <class name="rahulshettyacademy.MavenJava.RestAPITest"/>
       <class name="rahulshettyacademy.MavenJava.SeleniumTest"/>
     </classes>
   </test> <!-- Test -->
